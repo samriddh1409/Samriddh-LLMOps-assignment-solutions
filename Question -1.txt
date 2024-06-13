@@ -1,0 +1,3 @@
+Question: Can algorithms like SMOTE/ROSE which synthesize new examples from the training data be called Generative AI?
+
+Answer: SMOTE/ROSE and Generative AI may seem to be similar as a form of a generative process, these both are different from each other. SMOTE/ROSE is used to generate synthetic data points around existing data points to overcome the class imbalance in the dataset and maintain the balance of the distribution of data points, while Generative AI creates new data samples based on the training data like images, audio, texts which can generally be high-dimensional data.
